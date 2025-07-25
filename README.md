@@ -24,7 +24,7 @@ project-root/ │-- 📂 backend/ # Express.js server (Node.js & MySQL) │ ├�
 
 🔧 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/hackathon_codeCrafters.git
+git clone https://github.com/your-username/Promptfy.git
 cd hackathon_codeCrafters
 
 2️⃣ Backend Setup:
